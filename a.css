@@ -24,6 +24,10 @@ h1{
     box-sizing: border-box;
   }
   
+.search-container input
+  {
+    border-radius: 40px;
+  }
  
   body {
     font-family: Arial;
